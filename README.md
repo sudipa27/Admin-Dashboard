@@ -1,14 +1,15 @@
-<b>Sales Analysis of an E-commerce store using Power Bi</b><hr>
-<b>Project Overview:</b><br>
+
+<h1>Sales Analysis of an E-commerce store using Power Bi</h1><hr>
+<h2>Project Overview:</h2><br>
 In this Power BI project, I aimed to analyze sales data to gain valuable insights into the company's revenue performance and understand the average order value. The primary objectives were to identify sales trends, top-selling products, and analyze customer behavior to optimize marketing strategies.
 <br>
-<b>Data Sources:</b><br>
+<h2>Data Sources:</h2><br>
 The project utilized data from various sources, including transactional data, customer data, and product information. 
 <br>
-<b>Data Preparation and Cleaning:</b><br>
+<h2>Data Preparation and Cleaning:</h2><br>
 Before creating visualizations, we performed data preparation and cleaning using Power Query in Power BI. This involved filtering out irrelevant data, handling missing values, and formatting the data appropriately for analysis.
 <br>
-<b>Visualizations:</b>
+<h2>Visualizations:</h2>
 <br>We designed a range of data visualizations using Power BI, including:
 <ul>
   <li><b>Profit by Month </b> : Stack column chart was used to display the profit over each month</li>
